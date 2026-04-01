@@ -44,12 +44,12 @@ Nesse caso, estamos criando um ambiente com Python 3.7 (isso pode demorar alguns
 
 Windows:
 ```console
-py -3.7 -m venv virtualenv
+py -3.14 -m venv virtualenv
 ```
 
 Mac/Linux:
 ```console
-python3.7 -m venv virtualenv
+python3.14 -m venv virtualenv
 ```
 
 ## 6. Ative seu ambiente virtual
@@ -79,11 +79,11 @@ Para desativar o ambiente virtual, basta digitar: `deactivate`.
 - Django: framework para criar aplicações web.
 - Selenium: ferramenta para realizar testes funcionais em aplicações web.
 
-Com o ambiente virtual **ativado**, instale o Django 1.11 e o Selenium:
+Com o ambiente virtual **ativado**, instale o Django e o Selenium:
 
 ```console
 (virtualenv)
-$ pip install "django<1.12" "selenium<4"
+$ pip install "django>=5" "selenium<7"
 ```
 
 ## 8. Baixe o Driver Geckodriver
