@@ -1,7 +1,6 @@
 ## Requisitos
-- Python 3.6+ (https://www.python.org)
+- Python 3.14+ (https://www.python.org)
 - Git (http://git-scm.com)
-- Firefox (https://www.mozilla.org/firefox)
 
 
 ## 1. Crie um repositório na sua conta do GitHub chamado ``tdd-project``
