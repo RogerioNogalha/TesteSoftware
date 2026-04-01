@@ -7,12 +7,9 @@ ATENÇÃO, leia os documentos abaixo antes de iniciar:
 
 ## Aula Prática 1: Introdução a TDD, Testes Funcionais e Testes de Unidade
 
-Prof. André Hora
-
 Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro *Test-Driven-Development with Python*.
 Especificamente, iremos reproduzir os exemplos do Cap. 1 até o Cap. 3 do livro.
 **Faça o exercício com o mindset de TDD.**
-Se necessário, estude antes o material visto em sala de aula.
 
 Aplicação a ser desenvolvida: Site para listar tarefas a fazer (TODO list).
 Mais informações ao longo do roteiro.
