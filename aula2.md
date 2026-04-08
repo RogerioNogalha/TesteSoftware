@@ -2,8 +2,6 @@
 
 ## Aula Prática 2: Testando Interações do Usuário, Regressão e Banco de Dados
 
-Prof. André Hora
-
 Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro *Test-Driven-Development with Python*.
 Especificamente, iremos reproduzir os exemplos do Cap. 4 e 5 do livro. 
 Faça o exercício com o mindset de TDD.
