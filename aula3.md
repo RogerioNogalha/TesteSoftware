@@ -2,8 +2,6 @@
 
 ## Aula Prática 3: Melhorando Testes Funcionais e Expandindo a Aplicação
 
-Prof. André Hora
-
 Objetivo: Reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development), com base no livro *Test-Driven-Development with Python*.
 Especificamente, iremos reproduzir os exemplos do Cap. 6 e 7 do livro. 
 Faça o exercício com o mindset de TDD.
